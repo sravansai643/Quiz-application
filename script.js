@@ -1,23 +1,23 @@
 const quizData = [
     {
-      question: "What is the capital of India?",
-      options: ["Mumbai", "Delhi", "Chennai", "Kolkata"],
-      answer: 1
+      question: "What is the capital of France?",   
+      options: ["Berlin", "Madrid", "Paris", "Rome"], 
+      answer: 2 
     },
     {
-      question: "Which language is used for web apps?",
-      options: ["Python", "Java", "JavaScript", "C++"],
-      answer: 2
+      question: "Which planet is known as the Red Planet?",  
+      options: ["Earth", "Mars", "Jupiter", "Saturn"],  
+      answer: 1  
     },
     {
-      question: "Who wrote 'Harry Potter'?",
-      options: ["J.R.R Tolkien", "J.K. Rowling", "Stephen King", "George R.R. Martin"],
-      answer: 1
+      question: "What is the largest animal in the world?",  
+      options: ["Elephant", "Shark", "Blue Whale", "Giraffe"],  
+      answer: 2  
     },
     {
-      question: "What does CSS stand for?",
-      options: ["Colorful Style Sheets", "Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets"],
-      answer: 2
+      question: "Which is the longest river in the world?",  
+      options: ["Amazon", "Nile", "Yangtze", "Mississippi"],  
+      answer: 1  
     }
   ];
   
